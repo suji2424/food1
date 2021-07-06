@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a993df40-e95f-4e4b-898a-5af4023b347c",
+    "data": [
+      {
+        "text": "main",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38882432-ba0e-44aa-8e74-3b8a1daa11c9",
+    "data": [
+      {
+        "text": "Main course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

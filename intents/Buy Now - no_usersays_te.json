@@ -1,0 +1,119 @@
+[
+  {
+    "id": "b44f6f6b-cf3e-4124-9abf-286ef210516e",
+    "data": [
+      {
+        "text": "వద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "53cbea91-ff68-46c1-ac8e-a7445f7a5dcd",
+    "data": [
+      {
+        "text": "దీన్ని చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "f323179a-cb56-409b-800c-35c464d726d6",
+    "data": [
+      {
+        "text": "ఖచ్చితంగా చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "b0668833-31ed-4cc7-91f5-6c67d149ac8f",
+    "data": [
+      {
+        "text": "అస్సలు చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "f10a7cef-53f0-4cd9-a581-a9cd359235e6",
+    "data": [
+      {
+        "text": "ధన్యవాదాలు, అయినా వద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "3b42cd54-7282-4ac4-b64e-ea4f4cd95109",
+    "data": [
+      {
+        "text": "ఆసక్తి లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "09c05372-2672-4b97-a2e6-497fd93576c2",
+    "data": [
+      {
+        "text": "నేను అలా చేయాలనుకోవడం లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "3227cb0b-4b16-43fa-8f24-bb32cbe43f50",
+    "data": [
+      {
+        "text": "నేను విభేదిస్తున్నాను",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "daee9882-f525-47e2-af80-f7bf3debba16",
+    "data": [
+      {
+        "text": "నాకు అది అవసరం లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

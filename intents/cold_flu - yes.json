@@ -1,0 +1,54 @@
+{
+  "id": "bad09600-0dce-43d6-92e5-a21673956b86",
+  "parentId": "8ff7a4f1-b4a0-41cc-a083-3a9352263d94",
+  "rootParentId": "8ff7a4f1-b4a0-41cc-a083-3a9352263d94",
+  "name": "cold/flu - yes",
+  "auto": true,
+  "contexts": [
+    "await_choice",
+    "coldflu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "coldflu.coldflu-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Diagnosis: Symptoms are related to COVID-19.Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te-in",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

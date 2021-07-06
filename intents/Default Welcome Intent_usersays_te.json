@@ -1,0 +1,93 @@
+[
+  {
+    "id": "23a82f7f-fbc5-4b8c-8441-3be0f1cb3f13",
+    "data": [
+      {
+        "text": "ఇక్కడికి స్వాగతం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "0f938780-ce63-4a5a-b89b-29b6cd2cdb12",
+    "data": [
+      {
+        "text": "స్వాగతం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "83ddf33f-ee53-4120-819a-c6cee589b799",
+    "data": [
+      {
+        "text": "మీరు ఆహ్వానితులు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "9c19f43f-6f0f-40e9-b4a1-66b8805ce074",
+    "data": [
+      {
+        "text": "అది మా అదృష్టం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "b39a6928-fc59-4cb8-b03b-f31b5a0db7df",
+    "data": [
+      {
+        "text": "తప్పకుండా రండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "a6b23481-0886-4f61-ad15-ae5d28273602",
+    "data": [
+      {
+        "text": "నాకు సంతోషంగా ఉంది",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "31cf01d1-69de-4ca3-a2ff-18221fc44600",
+    "data": [
+      {
+        "text": "మీకు స్వాగతం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

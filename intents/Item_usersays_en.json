@@ -1,0 +1,204 @@
+[
+  {
+    "id": "8e8c2f97-7788-41c1-8aec-818fbb2b8e52",
+    "data": [
+      {
+        "text": "vegetable",
+        "meta": "@sys.unit-information",
+        "alias": "unit-information",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "samosa",
+        "meta": "@sys.cardinal",
+        "alias": "cardinal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20af31b2-3794-417e-b340-466643d20a7d",
+    "data": [
+      {
+        "text": "paneer",
+        "meta": "@sys.airport",
+        "alias": "airport",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tikka",
+        "meta": "@sys.airport",
+        "alias": "airport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81496cf2-8537-4378-ac77-0841a4ad740a",
+    "data": [
+      {
+        "text": "tomato",
+        "meta": "@sys.cardinal",
+        "alias": "cardinal",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soup",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83dfdc19-4a28-4cb2-a0f2-d55ffd08ba9a",
+    "data": [
+      {
+        "text": "jamun",
+        "meta": "@sys.geo-county-us",
+        "alias": "geo-county-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcab80fd-6d8e-437f-b71f-96f66db19a93",
+    "data": [
+      {
+        "text": "soda",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cf46da2-53cc-4988-9794-3c740cc12aa8",
+    "data": [
+      {
+        "text": "ice",
+        "meta": "@sys.geo-county-us",
+        "alias": "geo-county-us",
+        "userDefined": true
+      },
+      {
+        "text": " cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06e6a7cf-7bc8-4d9f-b630-d6f49a1c8a2b",
+    "data": [
+      {
+        "text": "pepper",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "barbecue",
+        "meta": "@sys.geo-county-us",
+        "alias": "geo-county-us",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b29a010d-5767-41d3-917b-2de80f153707",
+    "data": [
+      {
+        "text": "Margherita",
+        "meta": "@sys.airport",
+        "alias": "airport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee53c5b0-5e60-4a31-b551-f2733e79e50a",
+    "data": [
+      {
+        "text": "meals",
+        "meta": "@sys.geo-county-us",
+        "alias": "geo-county-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5a9ba0a-107c-483b-86dc-f9df70b7a3d0",
+    "data": [
+      {
+        "text": "briyani",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "09c25e60-d79a-4dba-a75a-67d4d7fc8fa5",
+  "parentId": "c4585d72-9c41-45f5-b756-04f301cb97a3",
+  "rootParentId": "c4585d72-9c41-45f5-b756-04f301cb97a3",
+  "name": "Buy Now - yes",
+  "auto": true,
+  "contexts": [
+    "BuyNow-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BuyNow.BuyNow-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "do want anyting else"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te-in",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "30e56456-6de9-4ca0-b0bf-0d0405b73861",
+  "name": "maincourse",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

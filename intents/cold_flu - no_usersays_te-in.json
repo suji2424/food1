@@ -1,0 +1,119 @@
+[
+  {
+    "id": "786d6522-77a1-4c46-b414-a9cfe27cdd43",
+    "data": [
+      {
+        "text": "వద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "9fc594b2-ef81-411f-9ff7-33ae1af6af89",
+    "data": [
+      {
+        "text": "దీన్ని చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "21cd7867-0fa6-4c5e-a10b-5cba64e60785",
+    "data": [
+      {
+        "text": "ఖచ్చితంగా చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "c26b7782-9ed1-455f-88a6-3d5b7573e326",
+    "data": [
+      {
+        "text": "అస్సలు చేయవద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "6aa909fa-da97-4045-b74a-e0e94994022a",
+    "data": [
+      {
+        "text": "ధన్యవాదాలు, అయినా వద్దు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "bb125911-36b7-43d3-b226-7a63f25fd482",
+    "data": [
+      {
+        "text": "ఆసక్తి లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "ccdf89bb-a92a-4de3-8614-c989172c0f37",
+    "data": [
+      {
+        "text": "నేను అలా చేయాలనుకోవడం లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "2d457348-30ae-4cf8-a72b-32952e049472",
+    "data": [
+      {
+        "text": "నేను విభేదిస్తున్నాను",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  },
+  {
+    "id": "3f4e1dbb-49d3-4d46-b3a1-aaeea620e42b",
+    "data": [
+      {
+        "text": "నాకు అది అవసరం లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te-in",
+    "updated": 0
+  }
+]

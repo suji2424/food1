@@ -1,0 +1,46 @@
+[
+  {
+    "id": "af255e12-e67f-4764-bbcb-ec42b2b11e04",
+    "data": [
+      {
+        "text": "drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4a1eef9-5e55-4f81-bc67-7c2d8219ab46",
+    "data": [
+      {
+        "text": "desert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec4d187f-78c0-4df8-b832-971373a6af91",
+    "data": [
+      {
+        "text": "Dessert \u0026 ",
+        "userDefined": false
+      },
+      {
+        "text": "Drinks",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
